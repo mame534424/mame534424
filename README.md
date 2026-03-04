@@ -21,4 +21,4 @@ I build secure, scalable web applications and integrate AI into real-world syste
 - 🤖 AI-integrated Telegram Bots
 
 ### 📫 Connect with Me
-LinkedIn: (add link here)
+LinkedIn: www.linkedin.com/in/mohammed-abrar-ba0291312
