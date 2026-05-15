@@ -1,126 +1,109 @@
-# Mohammed Abrar
+<!-- Hero: replace `BANNER_URL` and `AVATAR_GIF_URL` with your images. -->
+<p align="center">
+	<img src="BANNER_URL" alt="banner" width="100%" />
+</p>
 
-### Backend-Focused Full-Stack Software Engineer
-
-Passionate about building scalable backend systems, real-time applications, and production-oriented full-stack platforms with modern software engineering practices.
-
-I focus on designing secure APIs, scalable architectures, real-time communication systems, and AI-integrated applications while continuously improving my understanding of distributed systems, DevOps, and cloud-native development.
-
----
-
-## 🚀 Engineering Focus
-
-- Backend Engineering & API Design
-- Real-Time Systems & WebSocket Architectures
-- Scalable Full-Stack Applications
-- System Design & Software Architecture
-- AI Integration in Modern Applications
-- Cloud & DevOps Engineering (Learning Path)
-
----
-
-## 🛠 Tech Stack
-
-### Backend
-- Spring Boot
-- Node.js
-- Express.js
-- REST APIs
-- WebSockets / STOMP
-- JWT Authentication
-
-### Frontend
-- React
-- JavaScript
-- HTML5
-- CSS3
-- Responsive UI Development
-
-### Databases
-- PostgreSQL
-- MySQL
-- MongoDB
-
-### Tools & Technologies
-- Git & GitHub
-- Docker
-- Linux
-- Postman
-- Vite
-- Maven
-- npm
-
-### Currently Exploring
-- AWS Cloud Infrastructure
-- Distributed Systems
-- CI/CD Pipelines
-- Containerized Deployment
-- Scalable Backend Architectures
+<table>
+	<tr>
+		<td width="120">
+			<!-- Replace AVATAR_GIF_URL with your GIF (e.g. assets/profile.gif) -->
+			<img src="AVATAR_GIF_URL" alt="avatar" width="110" style="border-radius:50%" />
+		</td>
+		<td valign="middle">
+			<h1>Mohammed Abrar</h1>
+			<p><strong>Backend-Focused Full-Stack Software Engineer</strong></p>
+			<p>I design and deliver production-ready backend systems, real-time platforms, and scalable full-stack products. My work focuses on high-quality API design, resilient system architecture, secure authentication, and observability for production deployments.</p>
+		</td>
+	</tr>
+</table>
 
 ---
 
-# Featured Projects
+**What I do**
 
-## 💬 BunnaTalk — Real-Time Chat Platform
-Production-style real-time messaging platform built with Spring Boot, React, WebSockets/STOMP, JWT authentication, and MySQL.
-
-### Core Highlights
-- Real-time communication architecture
-- WebSocket-based messaging
-- Secure authentication & authorization
-- Responsive frontend experience
-- Modular backend structure
+- Build reliable, low-latency backend services and REST/GraphQL APIs
+- Design real-time systems using WebSockets and event-driven patterns
+- Implement secure authentication and authorization (JWT, OAuth)
+- Containerize and deploy services with Docker and CI/CD pipelines
+- Integrate AI components where they improve product outcomes
 
 ---
 
-## ⛽ Fuel Management System
-Full-stack fuel management ecosystem consisting of frontend, backend, and mobile applications.
+**Core Competencies**
 
-### System Components
-- React Frontend
-- Spring Boot / Node.js Backend
-- React Native Mobile Application
-
-### Features
-- Fuel tracking workflows
-- Dashboard & analytics
-- Role-based system design
-- Mobile-first experience
+- System design & scalable architecture
+- API design, versioning & documentation
+- Real-time messaging & WebSocket architectures
+- Relational & NoSQL data modeling (Postgres, MongoDB)
+- Observability: logging, metrics, distributed tracing
+- Deployment: Docker, container orchestration, CI/CD
 
 ---
 
-## 🏫 Multi-School Management System
-Scalable school management platform focused on modular architecture and administrative workflows.
+**Tech Snapshot**
 
-### Includes
-- Student & staff management
-- Academic workflow handling
-- Administrative dashboards
-- Backend-centric system architecture
-
----
-
-## 🤖 AI-Integrated Automation Bots
-Telegram-based automation and AI integration projects designed for workflow optimization and intelligent interaction systems.
+- Backend: Spring Boot, Node.js, Express
+- Frontend: React, Vite, modern JavaScript (ES6+)
+- Databases: PostgreSQL, MySQL, MongoDB
+- Infra & Tools: Docker, Git, Postman, Linux, Maven, npm
+- Exploring: AWS, Kubernetes, distributed systems patterns
 
 ---
 
-# 📈 Current Goals
+## Skills & Tools
 
-- Master advanced backend engineering
-- Build production-grade distributed systems
-- Deepen DevOps & cloud engineering knowledge
-- Contribute to impactful real-world software systems
-- Launch scalable startup-oriented platforms
+Below are quick visual highlights of the technologies I use. Replace or reorder as needed.
+
+<!-- Combined icons from skillicons.dev; update query string to change icons -->
+<p align="left">
+	<img src="https://skillicons.dev/icons?i=python,django,postgres,js,react,node,postgres,mongodb,git,docker" width="420" />
+</p>
+
+**Highlights**
+
+- API Design & Documentation (OpenAPI/Swagger)
+- Real-time systems: WebSockets / STOMP
+- Authentication: JWT, OAuth2
+- Observability: Prometheus, Grafana, distributed tracing
+- Containers & CI/CD: Docker, GitHub Actions
 
 ---
 
-# 📫 Connect With Me
+## Selected Projects
 
-- LinkedIn: <PRIVATE_URL>
+### BunnaTalk — Real-time Chat Platform
+
+Production-style chat platform with WebSocket/STOMP-based messaging, role-based access, and JWT authentication. Designed with modular services to scale messaging throughput and persistence.
+
+### Fuel Management System
+
+End-to-end fuel management product with dashboards, analytics, and mobile client support. Emphasizes role-based workflows, telemetry, and operational observability.
+
+### Multi-School Management System
+
+Scalable admin platform for multi-tenant school operations: student/staff lifecycle, academic workflows, and reporting APIs.
+
+### AI Automation Bots
+
+Telegram automation bots that integrate ML/AI models to streamline repetitive workflows and data ingestion pipelines.
+
+---
+
+**How I work**
+
+- Prioritize maintainability: small, well-tested services and clear contracts
+- Use API-first design: OpenAPI/Swagger for discoverability and client generation
+- Automate CI/CD and infra as code for fast, safe deployments
+- Measure systems in production: metrics, traces, and alerting
+
+---
+
+**Contact & Links**
+
+- Email: hello@yourdomain.com
+- LinkedIn: https://linkedin.com/in/yourprofile
 - GitHub: https://github.com/yourusername
 - Portfolio: https://mohammedabrar.dev
 
 ---
 
-> “Building systems with long-term scalability, maintainability, and real-world impact in mind.”
