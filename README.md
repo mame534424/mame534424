@@ -188,7 +188,7 @@
 <ul>
 
 <li>
-<a href="https://linkedin.com/in/yourprofile" target="_blank">
+<a href="https://linkedin.com/in/mohammed-abrar-ba0291312" target="_blank">
 <img src="https://img.shields.io/badge/linkedin:  Mohammed Abrar-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="margin-bottom: 5px;"/>
 </a>
 </li>
@@ -196,7 +196,7 @@
 <br>
 
 <li>
-<a href="https://github.com/yourusername" target="_blank">
+<a href="https://github.com/mame534424" target="_blank">
 <img src="https://img.shields.io/badge/github:  yourusername-%2300acee.svg?color=333333&style=for-the-badge&logo=github&logoColor=white" alt="github" style="margin-bottom: 5px;"/>
 </a>
 </li>
@@ -204,7 +204,7 @@
 <br>
 
 <li>
-<a href="mailto:hello@yourdomain.com" target="_blank">
+<a href="mailto:mame.534424@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/gmail:  Mohammed Abrar-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="mail" style="margin-bottom: 5px;" />
 </a>
 </li>
