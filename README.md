@@ -197,7 +197,7 @@
 
 <li>
 <a href="https://github.com/mame534424" target="_blank">
-<img src="https://img.shields.io/badge/github:  yourusername-%2300acee.svg?color=333333&style=for-the-badge&logo=github&logoColor=white" alt="github" style="margin-bottom: 5px;"/>
+<img src="https://img.shields.io/badge/github:  mame.534424-%2300acee.svg?color=333333&style=for-the-badge&logo=github&logoColor=white" alt="github" style="margin-bottom: 5px;"/>
 </a>
 </li>
 
