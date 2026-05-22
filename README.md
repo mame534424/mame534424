@@ -1,4 +1,9 @@
-<h1 align="center">Mohammed Abrar</h1>
+<h1 align="center">
+  <b>
+    <span>Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> </span>
+    <span>I'm Mohammed Abrar</span>
+  </b>
+</h1>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
@@ -24,7 +29,7 @@
 
 ## About
 
-I'm a 3rd-year Computer Engineering student who builds full-stack systems with a backend-first mindset. I've shipped real work — currently contributing to production web applications at **Lumen Labs** in Addis Ababa.
+I'm a  Computer Engineering student who builds full-stack systems with a backend-first mindset. I've shipped real work — currently contributing to production web applications at **Lumen Labs** in Addis Ababa.
 
 My focus: clean API design, secure authentication, real-time systems, and databases that don't fall over.
 
