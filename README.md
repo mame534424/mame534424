@@ -1,8 +1,9 @@
 <h1 align="center">Mohammed Abrar</h1>
 
 <p align="center">
-  <b>Backend-Focused Full-Stack Developer</b> · Computer Engineering @ Addis Ababa University<br>
-  Building real systems that solve real problems — in Ethiopia and beyond.
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=700&height=100&lines=Backend-Focused+Full-Stack+Engineer;Real-Time+%26+Distributed+Systems;API+Design+%26+Scalable+Architecture;Always+Building%2C+Always+Learning" />
+  </a>
 </p>
 
 <p align="center">
