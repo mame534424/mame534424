@@ -44,7 +44,7 @@ My focus: clean API design, secure authentication, real-time systems, and databa
 ## Projects
 
 ### ⛽ E-Fuel — Fuel Queue Management System
-`React Native` `React` `Node.js` `Express` `PostgreSQL` `Supabase`
+`React Native` `Next.js` `Node.js` `Express` `PostgreSQL` `Supabase`
 
 Built to reduce Ethiopia's long fuel station queues. Three interfaces: a **government admin dashboard** for monitoring distribution and controlling pricing, a **station manager dashboard** for managing availability and bookings, and a **mobile app** for users to find stations, book slots, and get real-time queue notifications.
 
