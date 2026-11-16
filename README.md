@@ -37,7 +37,7 @@ I'm a Computer Engineering student at **Addis Ababa University** and a software 
 
 **Right now**
 - 🏛️ **Backend Developer Intern, College of Technology and Built Environment (AAU)**, since July 2026: building the production backend for **LENS**, a campus Wi-Fi quality and mobility system planned for ~20,000 students and staff
-- 📡 Built the **Calibrator**, an offline and online data-collection app that has handled 1,000,000+ requests
+- 📡 Built the **Calibrator**, an offline and online data-collection app that has handled 1,000,000+ requests, and greatly assisted data collection pipeline of the whole project, projected to have morethan 20,000 user.
 
 **Before**
 - 💼 **Junior Full-Stack Developer, [Lumen Labs](https://www.lumenlabs.site)** (Oct 2025 – Jun 2026): client ERP systems, a futsal booking SaaS and a dental clinic management system
